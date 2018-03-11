@@ -12,6 +12,7 @@
 		5C4482CD20558AAF004C97FF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5C4482CB20558AAF004C97FF /* Main.storyboard */; };
 		5C4482CF20558AAF004C97FF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5C4482CE20558AAF004C97FF /* Assets.xcassets */; };
 		5C4482D220558AAF004C97FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5C4482D020558AAF004C97FF /* LaunchScreen.storyboard */; };
+		5C4482DA205597E1004C97FF /* video.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 5C4482D9205597E1004C97FF /* video.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		5C4482CE20558AAF004C97FF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5C4482D120558AAF004C97FF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5C4482D320558AAF004C97FF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5C4482D9205597E1004C97FF /* video.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = video.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				5C4482C720558AAF004C97FF /* AppDelegate.swift */,
 				5C4482C920558AAF004C97FF /* ViewController.swift */,
+				5C4482D9205597E1004C97FF /* video.mp4 */,
 				5C4482CB20558AAF004C97FF /* Main.storyboard */,
 				5C4482CE20558AAF004C97FF /* Assets.xcassets */,
 				5C4482D020558AAF004C97FF /* LaunchScreen.storyboard */,
@@ -126,6 +129,7 @@
 				5C4482D220558AAF004C97FF /* LaunchScreen.storyboard in Resources */,
 				5C4482CF20558AAF004C97FF /* Assets.xcassets in Resources */,
 				5C4482CD20558AAF004C97FF /* Main.storyboard in Resources */,
+				5C4482DA205597E1004C97FF /* video.mp4 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
